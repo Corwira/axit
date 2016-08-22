@@ -1,0 +1,109 @@
+/* social media icons */
+
+.icons__list {
+    list-style: none;
+    margin 0;
+    padding: 0;
+}
+
+
+.icons__list li {
+    display: inline-block;
+}
+
+.icons__list a {
+    background-image: url(../img/social-icons-sprite.png);
+    background-repeat: no-repeat;
+    display: block;
+    height: 85px;
+    transition: all 0.3s ease-out;
+    width: 85px;
+}
+
+.icons__list a:hover {
+   opacity: .7;
+    transform: scale(1.1);
+}
+
+.icons__list__facebook {
+    background-position: 0 0; 
+}
+
+.icons__list__twitter {
+    background-position: -88px 0;
+}
+
+.icons__list__google {
+    background-position: -190px 0;
+}
+
+.icons__list__pinterest {
+    background-position: -282px 0;
+}
+
+.icons__list__instagram {
+    background-position: -384px 0;
+}
+
+.icons__list__linkedin {
+    background-position: -485px 0;
+}
+
+.icons__list__rss {
+    background-position: -595px 0;
+}
+
+
+/* footer social media icons */
+
+.footer__icons {
+    list-style: none;
+   padding-top: 20px;
+}
+
+
+.footer__icons li {
+    display: inline-block;
+}
+
+.footer__icons a {
+    background-image: url(../img/social-icon-footer-sprite.png);
+    background-repeat: no-repeat;
+    display: block;
+    height: 25px;
+    transition: all 0.3s ease-out;
+    width: 40px;
+}
+
+.footer__icons a:hover {
+   opacity: .7;
+    transform: scale(1.1);
+}
+
+.footer__icons__facebook {
+    background-position: 0 0; 
+}
+
+.footer__icons__twitter {
+    background-position: -43px 0;
+}
+
+.footer__icons__google {
+    background-position: -95px 0;
+}
+
+.footer__icons__pinterest {
+    background-position: -142px 0;
+}
+
+.footer__icons__instagram {
+    background-position: -192px 0;
+}
+
+.footer__icons__linkedin {
+    background-position: -243px 0;
+}
+
+.footer__icons__rss {
+    background-position: -297px 0;
+}
