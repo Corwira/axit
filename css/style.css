@@ -61,6 +61,7 @@ body {
     height: 640px;
     background: url('../img/slider-image.png');
     background-color: #000;
+    background-size: cover;
 }
 
 header {
