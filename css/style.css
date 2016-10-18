@@ -113,7 +113,7 @@ header {
     border: 2px solid #fff;
     font-size: 1.07em;
     font-family: 'Open Sans', sans-serif;
-    font-weight: 600px; 
+    font-weight: 600; 
     transition: all 0.3s ease;
 }
 
@@ -347,7 +347,7 @@ header {
 .ft-list__content {
     float: right;
     width: 430px;
-    font-family: 'Open Sans' sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .list__content__head {
@@ -477,7 +477,7 @@ header {
     font-size: 2.6em;
     margin-bottom: 30px;
     color: #212121;
-    font-family: 'Raleway' sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 .top__head:after {
@@ -558,7 +558,7 @@ header {
     font-size: 2.6em;
     margin-bottom: 30px;
     color: #212121;
-    font-family: 'Raleway' sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 .p-top__head:after {
@@ -768,7 +768,7 @@ header {
     text-align: center;
     padding-top: 70px;
     padding-bottom: 60px;
-    font-family: 'Raleway' sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 .ax-top__head {
@@ -815,7 +815,7 @@ header {
     font-size: 2.6em;
     margin-bottom: 30px;
     color: #212121;
-    font-family: 'Raleway' sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 .c-top__head:after {
@@ -908,6 +908,6 @@ footer {
 .footer__text {
     opacity: 0.5;
     font-size: 0.85em;
-    font-family: 'Open Sans' sans-serif;
+    font-family: 'Open Sans', sans-serif;
     margin-top: 8px;
 }
